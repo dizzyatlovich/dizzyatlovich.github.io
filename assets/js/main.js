@@ -135,7 +135,7 @@
 
 			// Toggle.
 				$navPanelToggle = $(
-					'<a href="#navPanel" id="navPanelToggle">Menu</a>'
+					'<p id="navPanelToggle">+375 (29) 6111 938</p>'
 				)
 					.appendTo($wrapper);
 
@@ -149,29 +149,6 @@
 							$navPanelToggle.addClass('alt');
 						}
 					});
-
-			// Panel.
-				$navPanel = $(
-					'<div id="navPanel">' +
-						'<nav>' +
-						'</nav>' +
-						'<a href="#navPanel" class="close"></a>' +
-					'</div>'
-				)
-					.appendTo($body)
-					.panel({
-						delay: 500,
-						hideOnClick: true,
-						hideOnSwipe: true,
-						resetScroll: true,
-						resetForms: true,
-						side: 'right',
-						target: $body,
-						visibleClass: 'is-navPanel-visible'
-					});
-
-				// Get inner.
-					$navPanelInner = $navPanel.children('nav');
 
 				// Move nav content on breakpoint change.
 					var $navContent = $nav.children();

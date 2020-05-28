@@ -4,7 +4,7 @@
     <url>
       <loc>http://dizzyatlovich.github.io/blog/skvazhina/</loc>
       
-        <lastmod>2017-10-31T00:00:00-05:00</lastmod>
+        <lastmod>2020-05-26T00:00:00-05:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -13,7 +13,7 @@
     <url>
       <loc>http://dizzyatlovich.github.io/blog/vnutrennie_raboty/</loc>
       
-        <lastmod>2017-10-31T00:00:00-05:00</lastmod>
+        <lastmod>2020-05-25T00:00:00-05:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -22,7 +22,7 @@
     <url>
       <loc>http://dizzyatlovich.github.io/blog/naruzhnye_raboty/</loc>
       
-        <lastmod>2017-10-31T00:00:00-05:00</lastmod>
+        <lastmod>2020-05-25T00:00:00-05:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -31,7 +31,25 @@
     <url>
       <loc>http://dizzyatlovich.github.io/blog/montazh/</loc>
       
-        <lastmod>2017-10-31T00:00:00-05:00</lastmod>
+        <lastmod>2020-05-25T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://dizzyatlovich.github.io/blog/certificate2/</loc>
+      
+        <lastmod>2019-05-28T00:00:00-05:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>http://dizzyatlovich.github.io/blog/certificate1/</loc>
+      
+        <lastmod>2019-05-28T00:00:00-05:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
